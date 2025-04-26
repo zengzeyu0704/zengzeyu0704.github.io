@@ -17,7 +17,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 📣 Recent News
 ======
-<div style="max-height: 250px; overflow-y: auto; padding: 10px; border: 1px solid #ddd; border-radius: 8px; background-color: #f9f9f9;">
+<div style="max-height: 750px; overflow-y: auto; padding: 10px; border: 1px solid #ddd; border-radius: 8px; background-color: #f9f9f9;">
   <ul style="list-style-type: none; padding-left: 0;">
     <li><strong>Apr. 2025:</strong> I was awarded the Joint PhD Program Scholarship by the China Scholarship Council (CSC). 🎁</li>
     <li><strong>Apr. 2025:</strong> Our paper on seismic data noise removal was accepted by IEEE TGRS! ✨</li>
