@@ -29,7 +29,7 @@ My name is Zeyu Zeng. I’m currently a Ph.D. student at Chengdu University of T
     <li><strong>jun. 2022:</strong> I earned my Master’s degree in Mathematics from the University of Electronic Science and Technology of China (UESTC) and received the Sichuan Provincial Outstanding Graduate Award. 🎄</li>
     <li><strong>May. 2021:</strong> Our paper "Nonlocal Block-Term Decomposition for Hyperspectral Image Mixed Noise Removal" (authors: <strong>Zeyu Zeng</strong>, Tingzhu Huang, Yong Chen, and Xile Zhao) was accepted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443" target="_blank">IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</a> (IEEE JSTARS)！ 🔥</li>
   </ul>
-</div>
+</div>  
 
 
 📩 Reach out to me
