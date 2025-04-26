@@ -7,8 +7,10 @@ author_profile: true
 <div class="wordwrap">
     The list is not frequently updated. You can find my latest publications on 
     <a href="https://scholar.google.com.hk/citations?view_op=list_works&hl=en&user=t3icTAIAAAAJ" target="_blank">my Google Scholar profile</a>.
-</div><br>
+</div>
 
+<br>
+<br>
 
 
 
