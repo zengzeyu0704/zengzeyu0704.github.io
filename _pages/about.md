@@ -18,11 +18,11 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 📣 Recent News
 ======
 <div style="max-height: 250px; overflow-y: auto; padding: 10px; border: 1px solid #ddd; border-radius: 8px; background-color: #f9f9f9;">
-  <ul style="list-style: none; padding-left: 0; margin: 0;">
-    <li style="list-style-type: none;"><strong>Apr. 2025:</strong> I was awarded the Joint PhD Program Scholarship by the China Scholarship Council (CSC). 🎁</li>
-    <li style="list-style-type: none;"><strong>Apr. 2025:</strong> Our paper on seismic data noise removal was accepted by IEEE TGRS! ✨</li>
-    <li style="list-style-type: none;"><strong>Apr. 2025:</strong> I was invited by the Chinese Association for Applied Statistics to attend the PhD Salon of the Young Elite Scientists Sponsorship Program by CAST, in Mianyang, Sichuan province. 📊</li>
-    <li style="list-style-type: none;"><strong>Mar. 2025:</strong> I attended the 14th International Symposium on Digital Earth in Chongqing, China. I gave an oral presentation about "Assessment of Urban Comprehensive Carrying Capacity using Multi-source Data: A Case Study in 15 Sub-provincial divisions, China" in Session: Harnessing Big Data, Remote Sensing, and Artificial Intelligence for SDG (Sustainability Nexus) Modelling. 🎤</li>
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li><strong>Apr. 2025:</strong> I was awarded the Joint PhD Program Scholarship by the China Scholarship Council (CSC). 🎁</li>
+    <li><strong>Apr. 2025:</strong> Our paper on seismic data noise removal was accepted by IEEE TGRS! ✨</li>
+    <li><strong>Apr. 2025:</strong> I was invited by the Chinese Association for Applied Statistics to attend the PhD Salon of the Young Elite Scientists Sponsorship Program by CAST, in Mianyang, Sichuan province. 📊</li>
+    <li><strong>Mar. 2025:</strong> I attended the 14th International Symposium on Digital Earth in Chongqing, China. I gave an oral presentation about "Assessment of Urban Comprehensive Carrying Capacity using Multi-source Data: A Case Study in 15 Sub-provincial divisions, China" in Session: Harnessing Big Data, Remote Sensing, and Artificial Intelligence for SDG (Sustainability Nexus) Modelling. 🎤</li>
   </ul>
 </div>
 
