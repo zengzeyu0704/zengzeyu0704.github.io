@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Zeyu Zeng. I’m currently a PhD student at Chengdu University of Technology, supervised by Prof. Zhongli Zhou and Prof. Jun Feng. I received the M.S. degree in Mathematics from the University of Electronic Science and Technology of China, supervised by Prof. Tingzhu Huang, and the B.S. degree in Mathematics from Chengdu University of Technology. My PhD research project was conducted under the support of the Young Elite Scientists Sponsorship Program by CAST - Doctoral Student Special Plan, and was supported by the Chinese Association for Applied Statistics. My current research centers on multidimensional and spatiotemporal data processing, tensor computing, and statistical modeling.
+My name is Zeyu Zeng. I’m currently a PhD student at Chengdu University of Technology, supervised by Prof. Zhongli Zhou and Prof. Jun Feng. I received the M.S. degree in Mathematics from the University of Electronic Science and Technology of China, supervised by [Prof. Tingzhu Huang](https://www.google.com), and the B.S. degree in Mathematics from Chengdu University of Technology. My PhD research project was conducted under the support of the Young Elite Scientists Sponsorship Program by CAST - Doctoral Student Special Plan, and was supported by the Chinese Association for Applied Statistics. My current research centers on multidimensional and spatiotemporal data processing, tensor computing, and statistical modeling.
 
 A data-driven personal website
 ======
