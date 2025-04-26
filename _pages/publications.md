@@ -14,7 +14,13 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-The list is not frequently updated. You can also find more about my research on [Google Scholar](https://scholar.google.com/citations?user=qi4IEtkAAAAJ) profile and [ResearchGate](https://www.researchgate.net/profile/Lijun_Sun3?) profile.
+{% if site.author.googlescholar %}
+  <div class="wordwrap">
+    The list is not frequently updated. You can find my latest publications on 
+    <a href="https://scholar.google.com.hk/citations?view_op=list_works&hl=en&user=t3icTAIAAAAJ" target="_blank">my Google Scholar profile</a>.
+  </div>
+{% endif %}
+
 
 
 
