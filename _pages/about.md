@@ -1,6 +1,6 @@
----
+![image](https://github.com/user-attachments/assets/e4afd3d5-b814-450f-846f-98a1010fc870)---
 permalink: /
-title: "About me"
+title: "👋 About me"
 author_profile: true
 redirect_from: 
   - /about/
