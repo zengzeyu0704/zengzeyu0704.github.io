@@ -4,12 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">
+<div class="wordwrap">
     The list is not frequently updated. You can find my latest publications on 
     <a href="https://scholar.google.com.hk/citations?view_op=list_works&hl=en&user=t3icTAIAAAAJ" target="_blank">my Google Scholar profile</a>.
-  </div>
-{% endif %}
+</div><br>
 
 
 
