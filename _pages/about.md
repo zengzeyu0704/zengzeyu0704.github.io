@@ -28,3 +28,7 @@ My name is Zeyu Zeng. I’m currently a Ph.D. student at Chengdu University of T
     <li><strong>May. 2021:</strong> Our paper "Nonlocal Block-Term Decomposition for Hyperspectral Image Mixed Noise Removal" (authors: <strong>Zeyu Zeng</strong>, Tingzhu Huang, Yong Chen, and Xile Zhao) was accepted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443" target="_blank">IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</a> (IEEE JSTARS)！ 🔥</li>
   </ul>
 </div>
+
+📩 Reach out to me
+======
+I am happy to engage in discussions and collaborations. If you are interested in my research or would like to collaborate, please do not hesitate to reach out to me (zengzeyu0704[at]126.com, zengzeyu[at]stu[dot]cdut[dot]edu[dot]cn).
