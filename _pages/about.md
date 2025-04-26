@@ -15,6 +15,18 @@ Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you se
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
+
+<div style="max-height: 250px; overflow-y: auto; padding: 10px; border: 1px solid #ddd; border-radius: 8px; background-color: #f9f9f9;">
+  <ul>
+    <li><strong>2025-04-20:</strong> Paper accepted at IEEE TGRS!</li>
+    <li><strong>2025-03-10:</strong> Gave a talk at Remote Sensing Forum 2025.</li>
+    <li><strong>2025-02-15:</strong> Started my visiting research at MIT!</li>
+    <li><strong>2025-01-05:</strong> Released new dataset for hyperspectral restoration.</li>
+    <li><strong>2024-12-01:</strong> Invited as a reviewer for IEEE TITS.</li>
+    <li><strong>2024-11-10:</strong> Attended CSC scholarship interview.</li>
+  </ul>
+</div>
+
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
