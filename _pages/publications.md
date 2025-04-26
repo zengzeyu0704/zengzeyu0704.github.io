@@ -14,10 +14,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-The list is not frequently updated. You can find my latest publications on [my Google Scholar profile](https://scholar.google.com.hk/citations?view_op=list_works&hl=en&user=t3icTAIAAAAJ)
-
-<br>
-<br>
+The list is not frequently updated. You can find my latest publications on my [Google Scholar profile](https://scholar.google.com.hk/citations?view_op=list_works&hl=en&user=t3icTAIAAAAJ)
 
 
 
