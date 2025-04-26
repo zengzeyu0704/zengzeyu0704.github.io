@@ -33,5 +33,5 @@ Inverse Problems in Geophysical Data
 
 Remote Sensing Image Processing
 -----
-* <strong>Zeyu Zeng</strong>, <em>Tingzhu Huang</em>, <em>Yong Chen</em>, and Xile Zhao. ["Nonlocal Block-Term Decomposition for Hyperspectral Image Mixed Noise Removal
+* <strong>Zeyu Zeng</strong>, Tingzhu Huang<span>&ast;</span>, Yong Chen<span>&ast;</span>, and Xile Zhao. ["Nonlocal Block-Term Decomposition for Hyperspectral Image Mixed Noise Removal
 ."](https://ieeexplore.ieee.org/abstract/document/9428531) IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 14 (2021): 5406-5420.
