@@ -18,7 +18,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 📣 Recent News
 ======
 <div style="max-height: 250px; overflow-y: auto; padding: 10px; border: 1px solid #ddd; border-radius: 8px; background-color: #f9f9f9;">
-    <li>2025-04-20: Paper accepted at IEEE TGRS!</li>
+    <strong>2025-03-10:</strong>: Paper accepted at IEEE TGRS!
     <li><strong>2025-03-10:</strong> Gave a talk at Remote Sensing Forum 2025.</li>
     <li><strong>2025-02-15:</strong> Started my visiting research at MIT!</li>
     <li><strong>2025-01-05:</strong> Released new dataset for hyperspectral restoration.</li>
