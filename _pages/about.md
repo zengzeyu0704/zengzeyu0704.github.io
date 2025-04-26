@@ -14,13 +14,14 @@ My name is Zeyu Zeng. I’m currently a Ph.D. student at Chengdu University of T
 <div style="max-height: 1000px; overflow-y: auto; padding: 10px; border: 1px solid #ddd; border-radius: 8px; background-color: #f9f9f9;">
   <ul style="list-style-type: none; padding-left: 0;">
     <li><strong>Apr. 2025:</strong> I was awarded the Joint PhD Program Scholarship by the China Scholarship Council (CSC). 🎁</li>
-    <li><strong>Apr. 2025:</strong> Our paper on seismic data noise removal was accepted by IEEE TGRS! ✨</li>
+    <li><strong>Apr. 2025:</strong> Our paper "Eliminating Seismic Data Noise by Merging Nonlocal Enhanced Low-Rankness and Second-Order Gradient Smoothness" (authors: <strong>Zeyu Zeng<strong>, Jun Feng, Zhongli Zhou, Quanfeng Wang, Bin Xu) was accepted to [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36) (IEEE TGRS)! ✨</li>
     <li><strong>Apr. 2025:</strong> I attended the 14th International Symposium on Digital Earth in Chongqing, China. I gave an oral presentation about "Assessment of Urban Comprehensive Carrying Capacity using Multi-source Data: A Case Study in 15 Sub-provincial divisions, China" in Session: Harnessing Big Data, Remote Sensing, and Artificial Intelligence for SDG (Sustainability Nexus) Modelling. 🎤</li>
     <li><strong>Apr. 2025:</strong> I was invited by the Chinese Association for Applied Statistics to attend the PhD Salon of the Young Elite Scientists Sponsorship Program by CAST, in Mianyang, Sichuan province. 📊</li>
     <li><strong>Mar. 2025:</strong> I presented my work on traffic data imputation at the 12th Sichuan Provincial Academic Forum for Postgraduates and Doctoral Candidates, winning the First Prize and Excellent Presenter recognition. 🎖</li>
-    <li><strong>Feb. 2025:</strong> Our paper on traffic data imputation was accepted by IEEE TITS！ 🎉</li>
+    <li><strong>Feb. 2025:</strong> Our paper "A Flexible Approach Based on Hybrid Global Low-Rankness and Smoothness Regularization with Nonlocal Structure for Traffic Data Imputation" (authors: <strong>Zeyu Zeng<strong>, Jun Feng, Zhang Huang, Bin Liu, and Bin Zhou) was accepted to [IEEE Transactions on Intelligent Transportation Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979) (IEEE TITS)！ 🎉</li>
     <li><strong>Jan. 2025:</strong> I was awarded the Young Elite Scientists Sponsorship Program by CAST – Doctoral Student Special Plan. ⭐</li>
     <li><strong>Sept. 2024:</strong> I achieved the First Prize in the National Statistical Modeling Competition. 🎈</li>
-    <li><strong>Aug. 2024:</strong> Our paper on low-rank tensor for traffic data imputation was accepted by IEEE TITS！ 🎊</li>
+    <li><strong>Aug. 2025:</strong> Our paper "Low-Rank Tensor and Hybrid Smoothness Regularization-Based Approach for Traffic Data Imputation With Multimodal Missing" (authors: <strong>Zeyu Zeng<strong>, Bin Liu, Jun Feng, and Xiaolin Yang) was accepted to [IEEE Transactions on Intelligent Transportation Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979) (IEEE TITS)！ 🎊</li>
+    <li><strong>May. 2021:</strong> Our paper "Nonlocal Block-Term Decomposition for Hyperspectral Image Mixed Noise Removal" (authors: <strong>Zeyu Zeng<strong>, Tingzhu Huang, Yong Chen, and Xile Zhao) was accepted to [IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443) (IEEE JSTARS)！ 🔥</li>
   </ul>
 </div>
