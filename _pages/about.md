@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 My name is Zeyu Zeng. I’m currently a Ph.D. student at Chengdu University of Technology, supervised by [Prof. Zhongli Zhou](https://math.cdut.edu.cn/info/1175/3054.htm) and [Prof. Jun Feng](https://scholar.google.com.hk/citations?user=GXryEN8AAAAJ&hl=en&oi=sra). I received the M.S. degree in Mathematics from the University of Electronic Science and Technology of China, supervised by [Prof. Tingzhu Huang](https://www.math.uestc.edu.cn/info/1081/2041.htm) and [Prof. Xile Zhao](https://zhaoxile.github.io/), and the B.S. degree in Mathematics from Chengdu University of Technology. My PhD research project was conducted under the support of the Young Elite Scientists Sponsorship Program by CAST - Doctoral Student Special Plan, and was supported by the [Chinese Association for Applied Statistics](https://www.caas-net.org.cn/). My current research centers on multidimensional and spatiotemporal data processing, tensor computing, and statistical modeling.
+<br>
+
 
 📣 Recent News
 ======
@@ -30,6 +32,7 @@ My name is Zeyu Zeng. I’m currently a Ph.D. student at Chengdu University of T
 </div>
 
 
+<br>
 
 📩 Reach out to me
 ======
