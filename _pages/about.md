@@ -18,12 +18,10 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 📣 Recent News
 ======
 <div style="max-height: 250px; overflow-y: auto; padding: 10px; border: 1px solid #ddd; border-radius: 8px; background-color: #f9f9f9;">
-    <strong>2025-03-10:</strong>: Paper accepted at IEEE TGRS!
-    <li><strong>2025-03-10:</strong> Gave a talk at Remote Sensing Forum 2025.</li>
-    <li><strong>2025-02-15:</strong> Started my visiting research at MIT!</li>
-    <li><strong>2025-01-05:</strong> Released new dataset for hyperspectral restoration.</li>
-    <li><strong>2024-12-01:</strong> Invited as a reviewer for IEEE TITS.</li>
-    <li><strong>2024-11-10:</strong> Attended CSC scholarship interview.</li>
+    <strong>Apr. 2025:</strong> I was awarded the Joint PhD Program Scholarship by the China Scholarship Council (CSC). 🎁
+    <strong>Apr. 2025:</strong> Our paper on seismic data noise removal was accepted by IEEE TGRS! ✨
+    <strong>Apr. 2025:</strong> I was invited by the Chinese Association for Applied Statistics to attend the PhD Salon of the Young Elite Scientists Sponsorship Program by CAST, in Mianyang, Sichuan province. 📊
+    <strong>Mar. 2025:</strong> I attended the 14th International Symposium on Digital Earth in Chongqing, China. I gave an oral presentation about "Assessment of Urban Comprehensive Carrying Capacity using Multi-source Data: A Case Study in 15 Sub-provincial divisions, China" in Session: Harnessing Big Data, Remote Sensing, and Artificial Intelligence for SDG (Sustainability Nexus) Modelling. 🎤
   </ul>
 </div>
 
