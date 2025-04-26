@@ -4,10 +4,17 @@ permalink: /publications/
 author_profile: true
 ---
 
-<div class="wordwrap">
-    The list is not frequently updated. You can find my latest publications on 
-    <a href="https://scholar.google.com.hk/citations?view_op=list_works&hl=en&user=t3icTAIAAAAJ" target="_blank">my Google Scholar profile</a>.
-</div>
+<!-- {% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %} -->
+
+The list is not frequently updated. You can find my latest publications on [my Google Scholar profile](https://scholar.google.com.hk/citations?view_op=list_works&hl=en&user=t3icTAIAAAAJ)
 
 <br>
 <br>
