@@ -7,8 +7,7 @@ author_profile: true
 
 ---
 
-Award
-======
+
 * Young Elite Scientists Sponsorship Program by CAST - Doctoral Student Special Plan, Supported by: Chinese Association for Applied Statistics, 2025
 * National Scholarship, 2017
 * Statistician (Intermediate Professional Title of China), 2024
