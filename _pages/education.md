@@ -15,7 +15,4 @@ Education
 * M.S. student in Mathematics, School of Mathematical Sciences, University of Electronic Science and Technology of China, Advisor: Prof. Tingzhu Huang and Xile Zhao. 2019 - 2022
 * B.S. student in Mathematics and Applied Mathematics, School of Mathematical Science, Chengdu University of Technology.
 
-Award
-======
-* National Scholarship
-* To be continued...
+
