@@ -7,6 +7,8 @@ author_profile: true
 
 ---
 
-To be continued...
+Reviewer (peer-reviewed journals)
 =====
-
+* Journal of Scientific Computing
+* IEEE Transactions on Intelligent Transportation Systems
+* Journal of Applied Remote Sensing
