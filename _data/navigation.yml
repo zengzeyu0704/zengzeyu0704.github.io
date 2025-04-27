@@ -35,8 +35,8 @@ main:
   - title: "Education"
     url: /education/
 
-  - title: "Awards"
-    url: /awards/
+  - title: "Award"
+    url: /award/
 
   - title: "Contact"
     url: /contact/
