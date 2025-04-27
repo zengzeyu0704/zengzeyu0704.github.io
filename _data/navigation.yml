@@ -32,8 +32,11 @@ main:
   - title: "Services"
     url: /services/
 
-  - title: "CV"
-    url: /cv/
+  - title: "Education"
+    url: /education/
+
+  - title: "Awards"
+    url: /awards/
 
   - title: "Contact"
     url: /contact/
