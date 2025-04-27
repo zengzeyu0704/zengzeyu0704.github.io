@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "👨‍💻 Talks and presentations"
-permalink: /talks/
+title: "🏆 Award"
+permalink: /award/
 author_profile: true
 ---
 
