@@ -25,11 +25,11 @@ Intelligent Transportation Systems Data Imputation
 -----
 * <strong>Zeyu Zeng</strong>, Jun Feng<sup>*</sup>, Zhang Huang, Bin Liu, and Bin Zhou. ["A Flexible Approach Based on Hybrid Global Low-Rankness and Smoothness Regularization With Nonlocal Structure for Traffic Data Imputation."](https://ieeexplore.ieee.org/abstract/document/10897310) IEEE Transactions on Intelligent Transportation Systems (2025).
 
-* <strong>Zeyu Zeng</strong>, Bin Liu<sup>*</sup>, Jun Feng, and Xiaolin Yang. ["Low-Rank Tensor and Hybrid Smoothness Regularization-Based Approach for Traffic Data Imputation With Multimodal Missing."](https://ieeexplore.ieee.org/abstract/document/10637250) IEEE Transactions on Intelligent Transportation Systems 25, no. 10 (2025): 13014-13026.
+* <strong>Zeyu Zeng</strong>, Bin Liu<sup>*</sup>, Jun Feng, and Xiaolin Yang. ["Low-Rank Tensor and Hybrid Smoothness Regularization-Based Approach for Traffic Data Imputation With Multimodal Missing."](https://ieeexplore.ieee.org/abstract/document/10637250) IEEE Transactions on Intelligent Transportation Systems 25, no. 10 (2024): 13014-13026.
 
 Inverse Problems in Geophysical Data
 -----
-* <strong>Zeyu Zeng</strong>, Jun Feng<sup>*</sup>, Zhongli Zhou, Quanfeng Wang, and Bin Xu. "Eliminating Seismic Data Noise by Merging Nonlocal Enhanced Low-Rankness and Second-Order Gradient Smoothness." IEEE Transactions on Geoscience and Remote Sensing (2025).
+* <strong>Zeyu Zeng</strong>, Jun Feng<sup>*</sup>, Zhongli Zhou, Quanfeng Wang, and Bin Xu. ["Eliminating Seismic Data Noise by Merging Nonlocal Enhanced Low-Rankness and Second-Order Gradient Smoothness."](https://ieeexplore.ieee.org/abstract/document/10980227) IEEE Transactions on Geoscience and Remote Sensing (2025).
 
 Remote Sensing Image Processing
 -----
