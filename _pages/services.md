@@ -14,7 +14,7 @@ Reviewer (peer-reviewed journals)
 * IEEE Transactions on Intelligent Transportation Systems
 * Journal of Applied Remote Sensing
 
-judge
+Judge
 =====
 * Judge, China National E-commerce “Innovation, Originality, and Entrepreneurship” Challenge – Sichuan Division (2023, 2025).
 
