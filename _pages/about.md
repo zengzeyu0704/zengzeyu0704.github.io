@@ -15,7 +15,7 @@ My name is Zeyu Zeng. I’m currently a Ph.D. student at Chengdu University of T
 ======
 <div style="max-height: 1500px; overflow-y: auto; padding: 10px; border: 1px solid #ddd; border-radius: 8px; background-color: #f9f9f9;">
   <ul style="list-style-type: none; padding-left: 0;">
-    <li><strong>Aug. 2025:</strong> Our paper "Low-Rank Method for Seismic Data Reconstruction via Fused Dual-Domain Transformation" (authors: Zeyu Zeng, Jun Feng, Zhongli Zhou, Lin Guo, Quanfeng Wang) was submitted to IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS). 🫨</li>
+    <li><strong>Aug. 2025:</strong> Our paper "Low-Rank Method for Seismic Data Reconstruction via Fused Dual-Domain Transformation" (authors: <strong>Zeyu Zeng<strong>, Jun Feng, Zhongli Zhou, Lin Guo, Quanfeng Wang) was submitted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36" target="_blank">IEEE Transactions on Geoscience and Remote Sensing</a> (IEEE TGRS). 🫨</li>
     <li><strong>Jul. 2025:</strong> I was invited by the China Instrument and Control Society to attend the National Conditions Training Program by CAST, in Guiyang, Guizhou province. 🥔</li>
     <li><strong>Jun. 2025:</strong> I achieved the First Prize in the  National Undergraduate Statistical Modeling Competition (Sichuan Division) and was recommended to the national finals. 🔫</li>
     <li><strong>Jun. 2025:</strong> I was invited to serve as a judge for the 15th China National E-commerce “Innovation, Originality, and Entrepreneurship” Challenge (Sichuan Division). 🪄</li>
