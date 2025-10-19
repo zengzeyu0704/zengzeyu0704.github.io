@@ -8,6 +8,10 @@
 
 # 关闭自动夜间模式
 minimal_mistakes_skin: "default"
+
+# 关闭夜间模式切换按钮
+toggle:
+  theme: false
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
