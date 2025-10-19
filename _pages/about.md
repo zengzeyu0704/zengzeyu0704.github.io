@@ -13,7 +13,7 @@ My name is Zeyu Zeng. I’m currently a Ph.D. student at Chengdu University of T
 
 📣 Recent News
 ======
-<div style="max-height: 1500px; overflow-y: auto; padding: 10px; border: 1px solid #ddd; border-radius: 8px; background-color: #f9f9f9;">
+<div style="max-height: 1500px; overflow-y: auto; padding: 10px; border: 1px solid #ddd; border-radius: 8px; background-color: #f9f9f9; color: #000000;">
   <ul style="list-style-type: none; padding-left: 0;">
     <li><strong>Oct. 2025:</strong> I was awarded a Ph.D. Innovation Project Grant from Chengdu University of Technology (¥40,000). 📒</li>
     <li><strong>Oct. 2025:</strong> I was awarded the National Scholarship for Ph.D. student. 💰️</li>
