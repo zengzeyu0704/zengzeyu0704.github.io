@@ -9,7 +9,8 @@ author_profile: true
 
 
 * Young Elite Scientists Sponsorship Program by CAST - Doctoral Student Special Plan, Supported by: Chinese Association for Applied Statistics, 2025
-* National Scholarship, 2017
+* National Scholarship, Ph.D., 2025
+* National Scholarship, B.S., 2017
 * Statistician (Intermediate Professional Title of China), 2024
 * Outstanding Graduate of Sichuan Province, 2022
 * First Prize, the China National Statistical Modeling Competition, Principal Investigator, 2024
