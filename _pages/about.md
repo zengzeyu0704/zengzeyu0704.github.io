@@ -16,7 +16,7 @@ My name is Zeyu Zeng. I’m currently a Ph.D. student at Chengdu University of T
 <div style="max-height: 1500px; overflow-y: auto; padding: 10px; border: 1px solid #ddd; border-radius: 8px; background-color: #f9f9f9; color: #000000;">
   <ul style="list-style-type: none; padding-left: 0;">
     <li><strong>Dec. 2025:</strong> I attended the 4th SEG Student Geophysical Technology Symposium in Chengdu, China. I gave an oral presentation in Session: Seismic Data Acquisition and Processing. 🎤</li>
-    <li><strong>Nov. 2025:</strong> I was awarded the Top 10 Graduate Student Honor at Chengdu University of Technology. 💯</li>
+    <li><strong>Nov. 2025:</strong> I was awarded the Top 10 Outstanding Graduate Student Honor at Chengdu University of Technology. 💯</li>
     <li><strong>Oct. 2025:</strong> I was awarded a Ph.D. Innovation Project Grant from Chengdu University of Technology (¥40,000). 📒</li>
     <li><strong>Oct. 2025:</strong> I was awarded the National Scholarship for Ph.D. student. 💰️</li>
     <li><strong>Aug. 2025:</strong> Our paper "Low-Rank Method for Seismic Data Reconstruction via Fused Dual-Domain Transformation" (authors: <strong>Zeyu Zeng</strong>, Jun Feng, Zhongli Zhou, Lin Guo, Quanfeng Wang) was submitted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36" target="_blank">IEEE Transactions on Geoscience and Remote Sensing</a> (IEEE TGRS). 😛</li>
