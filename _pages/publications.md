@@ -41,4 +41,4 @@ Remote Sensing Image Processing
 
 Statistical Analysis of Multisource Data
 -----
-* Ruilin Wang, Jun Feng, Mingshun Xiang, <strong>Zeyu Zeng</strong>, Lingshan Luo, Shilin Deng. "Nonlinear Association and Spatial Heterogeneity Between Urban Vitality and Built Environment: Evidence from the Main Urban Area of Chengdu." Remote Sensing 18 (2026): 3159. [\[Paper\]](https://www.mdpi.com/2072-4292/18/18/3159) 
+* Ruilin Wang, Jun Feng<sup>*</sup>, Mingshun Xiang, <strong>Zeyu Zeng</strong>, Lingshan Luo, Shilin Deng. "Nonlinear Association and Spatial Heterogeneity Between Urban Vitality and Built Environment: Evidence from the Main Urban Area of Chengdu." Remote Sensing 18 (2026): 3159. [\[Paper\]](https://www.mdpi.com/2072-4292/18/18/3159) 
