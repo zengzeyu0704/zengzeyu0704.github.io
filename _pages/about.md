@@ -15,7 +15,7 @@ My name is Zeyu Zeng. I’m currently a Ph.D. student at Chengdu University of T
 ======
 <div style="max-height: 1500px; overflow-y: auto; padding: 10px; border: 1px solid #ddd; border-radius: 8px; background-color: #f9f9f9; color: #000000;">
   <ul style="list-style-type: none; padding-left: 0;">
-    <li><strong>Nov. 2026:</strong> I was once again awarded the Top 10 Outstanding Graduate Student Honor at Chengdu University of Technology. 💯</li>
+    <li><strong>Nov. 2026:</strong> I was once again awarded the Top 10 Outstanding Graduate Student Honor at Chengdu University of Technology. 🔝</li>
     <li><strong>Nov. 2026:</strong> Our paper "Structure-Guided Nonconvex Low-Rank Regularization with Scale Invariance for Simultaneous Seismic Data Denoising and Reconstruction" (authors: <strong>Zeyu Zeng</strong>, Jun Feng, Zhongli Zhou, Ting Xu, Quanfeng Wang) was accepted to <a href="https://www.sciencedirect.com/journal/communications-in-nonlinear-science-and-numerical-simulation" target="_blank">Communications in Nonlinear Science and Numerical Simulation</a> (CNSNS)! 🤓</li>
     <li><strong>Nov. 2026:</strong> I was awarded the Outstanding Graduate of Sichuan Province. 🎗️</li>
     <li><strong>Sept. 2026:</strong> Our paper "Nonlinear Association and Spatial Heterogeneity Between Urban Vitality and Built Environment: Evidence from the Main Urban Area of Chengdu" (authors: Ruilin Wang, Jun Feng, Mingshun Xiang, <strong>Zeyu Zeng</strong>, Lingshan Luo, Shilin Deng) was accepted to <a href="https://www.mdpi.com/journal/remotesensing" target="_blank">Remote Sensing</a>! 😛</li>
