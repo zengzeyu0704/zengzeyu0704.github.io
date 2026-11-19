@@ -29,10 +29,16 @@ Intelligent Transportation Systems Data Imputation
 
 Inverse Problems in Geophysical Data
 -----
-* <strong>Zeyu Zeng</strong>, Jun Feng<sup>*</sup>, Zhongli Zhou, Quanfeng Wang, and Bin Xu. "Eliminating Seismic Data Noise by Merging Nonlocal Enhanced Low-Rankness and Second-Order Gradient Smoothness." IEEE Transactions on Geoscience and Remote Sensing 63 (2025): 1-15. [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/10980227) 
+* <strong>Zeyu Zeng</strong>, Jun Feng<sup>*</sup>, Zhongli Zhou, Quanfeng Wang, and Bin Xu. "Eliminating Seismic Data Noise by Merging Nonlocal Enhanced Low-Rankness and Second-Order Gradient Smoothness." IEEE Transactions on Geoscience and Remote Sensing 63 (2025): 1-15. [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/10980227)
+
+* <strong>Zeyu Zeng</strong>, Jun Feng<sup>*</sup>, Zhongli Zhou, Ting Xu, and Quanfeng Wang. "Structure-Guided Nonconvex Low-Rank Regularization with Scale Invariance for Simultaneous Seismic Data Denoising and Reconstruction." Communications in Nonlinear Science and Numerical Simulation. [\[Paper\]](https://www.sciencedirect.com/science/article/abs/pii/S1007570426013936) 
 
 Remote Sensing Image Processing
 -----
 * <strong>Zeyu Zeng</strong>, Tingzhu Huang<sup>*</sup>, Yong Chen, and Xile Zhao. "Nonlocal Block-Term Decomposition for Hyperspectral Image Mixed Noise Removal." IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 14 (2021): 5406-5420. [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9428531) 
 
-* Xiaoshuang Xu, Ruixue Gao<sup>*</sup>, Yu Qing, Jun Feng, <strong>Zeyu Zeng</strong>, and Maozhi Wang. "Hyperspectral image mixed noise removal via tensor robust principal component analysis with tensor-ring decomposition." International Journal of Remote Sensing 44, no. 5 (2023): 1556-1578. [\[Paper\]](https://www.tandfonline.com/doi/abs/10.1080/01431161.2023.2187720) 
+* Xiaoshuang Xu, Ruixue Gao<sup>*</sup>, Yu Qing, Jun Feng, <strong>Zeyu Zeng</strong>, and Maozhi Wang. "Hyperspectral image mixed noise removal via tensor robust principal component analysis with tensor-ring decomposition." International Journal of Remote Sensing 44, no. 5 (2023): 1556-1578. [\[Paper\]](https://www.tandfonline.com/doi/abs/10.1080/01431161.2023.2187720)
+
+Statistical Analysis of Multisource Data
+-----
+* Ruilin Wang, Jun Feng, Mingshun Xiang, <strong>Zeyu Zeng</strong>, Lingshan Luo, Shilin Deng. "Nonlinear Association and Spatial Heterogeneity Between Urban Vitality and Built Environment: Evidence from the Main Urban Area of Chengdu." Remote Sensing 18 (2026): 3159. [\[Paper\]](https://www.mdpi.com/2072-4292/18/18/3159) 
