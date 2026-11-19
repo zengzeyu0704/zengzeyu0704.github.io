@@ -33,7 +33,7 @@ Inverse Problems in Geophysical Data
 
 * <strong>Zeyu Zeng</strong>, Jun Feng<sup>*</sup>, Zhongli Zhou, Ting Xu, and Quanfeng Wang. "Structure-Guided Nonconvex Low-Rank Regularization with Scale Invariance for Simultaneous Seismic Data Denoising and Reconstruction." Communications in Nonlinear Science and Numerical Simulation. [\[Paper\]](https://www.sciencedirect.com/science/article/abs/pii/S1007570426013936) 
 
-Remote Sensing Image Processing
+Hyperspectral Image Processing
 -----
 * <strong>Zeyu Zeng</strong>, Tingzhu Huang<sup>*</sup>, Yong Chen, and Xile Zhao. "Nonlocal Block-Term Decomposition for Hyperspectral Image Mixed Noise Removal." IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 14 (2021): 5406-5420. [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9428531) 
 
