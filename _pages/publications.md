@@ -21,7 +21,7 @@ The list is not frequently updated. You can find my latest publications on my [G
 Recent Publication by Research Themes
 =====
 
-Intelligent Transportation Systems Data Imputation
+Traffic Data Imputation
 -----
 * <strong>Zeyu Zeng</strong>, Jun Feng<sup>*</sup>, Zhang Huang, Bin Liu, and Bin Zhou. "A Flexible Approach Based on Hybrid Global Low-Rankness and Smoothness Regularization With Nonlocal Structure for Traffic Data Imputation." IEEE Transactions on Intelligent Transportation Systems 26, no. 6 (2025): 8864-8879. [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/10897310) 
 
